@@ -55,6 +55,8 @@ jupyter notebook image_captioning.ipynb
 ## Results
 The notebook provides visualizations of the input images along with their generated captions, helping you to understand the model's performance and the quality of the captions.
 
+Check out the demo on my linkedIn: https://www.linkedin.com/posts/muhammad-saad-tariq-103272233_huggingface-gradio-deeplearningai-activity-7192831349324472320-_kDY?utm_source=share&utm_medium=member_desktop
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
