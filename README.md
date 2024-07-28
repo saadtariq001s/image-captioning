@@ -1,4 +1,4 @@
-# Image Captioning with Deep Learning
+# Image Captioning with BLIP by Salesforce
 
 This repository contains a Jupyter Notebook for performing image captioning using BLIP by Salesforce. The notebook demonstrates the process of loading pre-trained models, preprocessing images, generating captions, and evaluating the results.
 
